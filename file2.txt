@@ -1,1 +1,2 @@
 this is file2 of my project
+adding a new line 
